@@ -214,7 +214,7 @@ return rixx.relayMessage(progene.key.remoteJid, progene.message, {
 messageId: ""
 })
 }
-let kafloc = {key : {participant : '0@s.whatsapp.net', ...(rixxbotwhatsapp.chat ? { remoteJid: `status@broadcast` } : {}) },message: {locationMessage: {name: `RixxMods🔥 : ${runtime(process.uptime())}`,jpegThumbnail: fs.readFileSync('./image/thumbnail.jpg')}}}
+let kafloc = {key : {participant : '0@s.whatsapp.net', ...(rixxbotwhatsapp.chat ? { remoteJid: `status@broadcast` } : {}) },message: {locationMessage: {name: `DarkxBOT : ${runtime(process.uptime())}`,jpegThumbnail: fs.readFileSync('./image/thumbnail.jpg')}}}
 switch (command) {
 case 'menu':{
 rixx.sendMessage(rixxbotwhatsapp.chat, {text: `╭━━⊱ 𝙄𝙉𝙁𝙊 𝘽𝙊𝙏 
@@ -222,6 +222,14 @@ rixx.sendMessage(rixxbotwhatsapp.chat, {text: `╭━━⊱ 𝙄𝙉𝙁𝙊 �
 ┣❏ ɴᴀᴍᴇ ʙᴏᴛ : 𝘿𝙖𝙧𝙠𝙭𝘽𝙊𝙏
 ┣❏ ʀᴜɴɴɪɴɢ : ᴘᴀɴᴇʟᴏɴʟʏ
 ╰━━⊱
+╔══[ 𝙅𝘼𝙎𝘼 𝙎𝙀𝙒𝘼 𝘽𝙊𝙏 ]═════⊱
+╠「𖤍」  ᴍᴜʀɪᴅ ʙᴜɢ 2ᴋ
+╠「𖤍」  𝑆𝑒𝑤𝑎 𝐵𝑜𝑡/𝑚𝑎𝑠𝑢𝑘𝑖𝑛 𝑔𝑟𝑢𝑝 1 𝑀𝑖𝑛𝑔𝑔𝑢 5ᴋ
+╠「𖤍」  𝐵𝑢𝑦? 𝑃𝐶 𝐴𝐷𝑀𝐼𝑁 
+╠「𖤍」  𝑆𝑝𝑎𝑚 1𝑘/𝑛𝑜𝑚𝑜𝑟 (2𝑘𝑎𝑙𝑖)
+╠「𖤍」  𝐵𝑢𝑔 𝑖𝑛 𝑘𝑎𝑛𝑔 𝑅𝐼𝑃𝐸𝑅
+╠「𖤍」  wa.me/6282285357346
+╚═══[ *𝑃𝑎𝑦𝑚𝑒𝑛𝑡 𝐷𝐴𝑁𝐴* ]═════⊱
 ╔══════[ 𝙊𝙏𝙃𝙀𝙍 ]══════⊱
 ╠「𖤍」 sewa
 ╠「𖤍」 stats (Untuk Cek Status) 
